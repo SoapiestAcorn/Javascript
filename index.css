@@ -1,0 +1,106 @@
+body {
+    background-color:greenyellow;
+}
+
+h1 {
+    color: blueviolet;
+    background-color: aliceblue; 
+    border-color: red;
+    border-radius: 50px;
+    border-width: 5px;
+    text-align: center;
+    font-style: italic;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    
+}
+
+.how-to-play-link {
+    color: red;
+    border-color: green;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.how-to-play-link:hover{
+    color: blue;
+}
+
+h2 {
+    color: white;
+    margin: 100px;
+    margin-bottom: 50px;
+    padding-left: 50px;
+    padding: 10px;
+    background-color: blueviolet;
+    font: italic;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    border-color: red;
+    border-width: 10px;
+}
+
+#winner {
+    background-color: red;
+    color: white;
+    text-decoration:black;
+}
+
+div {
+background-color: black;
+}
+
+button {
+    background-color: orange;
+    border-radius: 20px;
+    padding-left: 10px;
+    margin: 10px;
+    margin-left: 250px;
+    margin-bottom: 100px;
+    width: 100px;
+    height: 50px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+button:hover{
+    background-color: aqua;
+}
+
+#Rock{
+    background-color: yellow;
+    color: black;
+}
+
+#Rock:hover{
+    background-color: aqua;
+}
+
+#Scissors{
+    background-color: pink;
+}
+#Scissors:hover{
+    background-color: aqua;
+}
+
+#patrick-star-image {
+    padding-top: 25px;
+    width: 25%;
+    height: 25%;
+}
+
+#paper-image {
+    padding-left: 100px;
+}
+
+#scissors-image {
+    padding-left: 200px;
+    width: 25%;
+    height: 10%;
+}
+
+.dotted {
+    color: mediumspringgreen;
+    background-color: royalblue;
+    border-color: white;
+    border-width: 10px;
+    border-spacing: 5px;
+    padding-left: 10px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
